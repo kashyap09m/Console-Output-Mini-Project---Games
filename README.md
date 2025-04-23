@@ -35,5 +35,5 @@ This repository includes the following **10 mini console-based Python games**:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Console-Output-Mini-Project---Games.git
+   git clone https://github.com/kashyap09m/Console-Output-Mini-Project---Games.git
    cd Console-Output-Mini-Project---Games
