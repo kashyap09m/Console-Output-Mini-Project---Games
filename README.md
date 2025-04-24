@@ -27,7 +27,7 @@ This repository includes the following **10 mini console-based Python games**:
 | 7️⃣ | **Maze Runner**            | Navigate through a grid-based maze using keyboard inputs (WASD).            |
 | 8️⃣ | **Text Adventure Game**    | Make choices and navigate a story with branching paths.                     |
 | 9️⃣ | **Battleship**             | Hide and find ships in a turn-based battle.                                 |
-| 🔟 | **Quiz Game**              | Multiple-choice quiz with scoring and feedback.                             |
+| 🔟 | **Dice Rolling**           | Rolling the Dice as many time as you want.                                  |
 
 ---
 
